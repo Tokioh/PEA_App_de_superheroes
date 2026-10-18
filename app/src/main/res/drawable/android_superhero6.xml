@@ -4,9 +4,10 @@
     android:viewportWidth="72"
     android:viewportHeight="72">
     <path
-        android:fillColor="#00ACC1"
+        android:fillColor="#1A237E"
         android:pathData="M0,0h72v72h-72z" />
+    <!-- Hero Mask symbol -->
     <path
-        android:fillColor="#FFFFFF"
-        android:pathData="M52,16 L40,16 C33.37,16 28,21.37 28,28 L28,44 C28,50.63 33.37,56 40,56 L52,56 L52,44 L40,44 C31.16,44 36,36 36,36 C36,36 31.16,28 40,28 L52,28 Z" />
+        android:fillColor="#E8EAF6"
+        android:pathData="M16,30 C22,28 30,32 36,36 C42,32 50,28 56,30 C60,32 58,42 52,44 C44,46 38,40 36,39 C34,40 28,46 20,44 C14,42 12,32 16,30 Z M26,38 C28.2,38 30,36.2 30,34 C30,31.8 28.2,30 26,30 C23.8,30 22,31.8 22,34 C22,36.2 23.8,38 26,38 Z M46,38 C48.2,38 50,36.2 50,34 C50,31.8 48.2,30 46,30 C43.8,30 42,31.8 42,34 C42,36.2 43.8,38 46,38 Z" />
 </vector>

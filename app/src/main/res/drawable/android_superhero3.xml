@@ -4,9 +4,10 @@
     android:viewportWidth="72"
     android:viewportHeight="72">
     <path
-        android:fillColor="#1E88E5"
+        android:fillColor="#546E7A"
         android:pathData="M0,0h72v72h-72z" />
+    <!-- Titan Shield symbol -->
     <path
-        android:fillColor="#FFFFFF"
-        android:pathData="M36,18 C26.06,18 18,26.06 18,36 C18,45.94 26.06,54 36,54 L36,48 C29.37,48 24,42.63 24,36 C24,29.37 29.37,24 36,24 C42.63,24 48,29.37 48,36 L42,36 L51,45 L60,36 L54,36 C54,26.06 45.94,18 36,18 Z" />
+        android:fillColor="#ECEFF1"
+        android:pathData="M36,14 L18,22 L18,36 C18,48 26,56 36,60 C46,56 54,48 54,36 L54,22 Z M36,24 L46,29 L46,36 C46,44 40,50 36,53 C32,50 26,44 26,36 L26,29 Z" />
 </vector>

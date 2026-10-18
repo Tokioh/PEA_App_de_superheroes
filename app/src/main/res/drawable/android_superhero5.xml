@@ -4,9 +4,10 @@
     android:viewportWidth="72"
     android:viewportHeight="72">
     <path
-        android:fillColor="#8E24AA"
+        android:fillColor="#0277BD"
         android:pathData="M0,0h72v72h-72z" />
+    <!-- Stellar Star symbol -->
     <path
-        android:fillColor="#FFFFFF"
-        android:pathData="M36,16 C23,16 12,25 8,36 C12,47 23,56 36,56 C49,56 60,47 64,36 C60,25 49,16 36,16 Z M36,48 C29.37,48 24,42.63 24,36 C24,29.37 29.37,24 36,24 C42.63,24 48,29.37 48,36 C48,42.63 42.63,48 36,48 Z M36,28 C31.58,28 28,31.58 28,36 C28,40.42 31.58,44 36,44 C40.42,44 44,40.42 44,36 C44,31.58 40.42,28 36,28 Z" />
+        android:fillColor="#E0F7FA"
+        android:pathData="M36,14 L42,28 L58,30 L46,41 L50,57 L36,49 L22,57 L26,41 L14,30 L30,28 Z" />
 </vector>
