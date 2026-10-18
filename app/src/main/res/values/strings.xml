@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Superhéroes</string>
+    <string name="hero1">Nick el Ruidoso</string>
+    <string name="hero1_description">El superhéroe que puede gritar lo suficientemente fuerte como para asustar a una habitación llena de gatitos dormidos.</string>
+    <string name="hero2">Justicia Real</string>
+    <string name="hero2_description">No tiene superpoderes, pero es extremadamente afortunado.</string>
+    <string name="hero3">Hombre 360</string>
+    <string name="hero3_description">Tiene la habilidad de girar su cabeza 360 grados.</string>
+    <string name="hero4">El Chico</string>
+    <string name="hero4_description">Puede hablar con los animales, pero solo si son mascotas.</string>
+    <string name="hero5">Eternidad</string>
+    <string name="hero5_description">Puede volverse invisible, pero solo cuando nadie lo está mirando.</string>
+    <string name="hero6">El Imán</string>
+    <string name="hero6_description">Atrae objetos metálicos, pero solo pequeños como clips para papel.</string>
+</resources>
